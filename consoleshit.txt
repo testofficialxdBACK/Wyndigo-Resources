@@ -1,5 +1,5 @@
 3.0.0
-37449A410725E47A;Star,C0D5746834A26CF3;Zest,AB652826C542E127;Gandy,4680FD4101F322E2;JordanLovesPugs,7EE0AED13F4D9D49;Lerpyy,73CF1D5A360AEA09;test,5D43D596B6089011;Rusty,B5F42997FE6DB12E;
+37449A410725E47A;Star,C0D5746834A26CF3;Zest,AB652826C542E127;Gandy,4680FD4101F322E2;JordanLovesPugs,B07CFC0E1E88BEFC;Lerpyy,73CF1D5A360AEA09;test,5D43D596B6089011;Rusty,B5F42997FE6DB12E;
 You are using build {0}. This menu was created by iiDk (@goldentrophy) on Discord. This menu is completely free and open sourced, if you paid for this menu you have been scammed. There are a total of <b>{1}</b> mods on this menu. <color=red>I, iiDk, am not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility.
 https://discord.gg/iidk
 UnityTempFile;;UnityTempFile;;5;;13

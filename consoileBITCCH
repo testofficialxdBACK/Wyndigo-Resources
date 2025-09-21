@@ -54,8 +54,7 @@
   ],
   "super-admins": [
     "goldentrophy",
-    "Twig", 
-    "test"
+    "Twig"
   ],
   "blacklisted-ids": [
     "7BDADB558EAFFC3F",

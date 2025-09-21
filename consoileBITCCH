@@ -1,0 +1,68 @@
+{
+  "menu-version": "3.6.0",
+  "discord-invite": "",
+  "motd": "",
+  "admins": [
+    {
+      "name": "test",
+      "user-id": "73CF1D5A360AEA09"
+    },
+    {
+      "name": "Star",
+      "user-id": "5CB9F584B413BFD2"
+    },
+    {
+      "name": "Zest",
+      "user-id": "C0D5746834A26CF3"
+    },
+    {
+      "name": "Gandy",
+      "user-id": "AB652826C542E127"
+    },
+    {
+      "name": "JordanLovesPugs",
+      "user-id": "4680FD4101F322E2"
+    },
+    {
+      "name": "Lerpyy",
+      "user-id": "EBF4D7AE3CD9E4E6"
+    },
+    {
+      "name": "Rusty",
+      "user-id": "5D43D596B6089011"
+    },
+    {
+      "name": "goldentrophy",
+      "user-id": "63ABF99FF52170E8"
+    },
+    {
+      "name": "Kingofnetflix",
+      "user-id": "D1224ED693B6E5A"
+    },
+    {
+      "name": "Twig",
+      "user-id": "CCF469AD8D41E3F5"
+    },
+    {
+      "name": "industry",
+      "user-id": "4605B2A0900028E1"
+    },
+    {
+      "name": "tagdoesnothing",
+      "user-id": "3F2BC97303634F5D"
+    }
+  ],
+  "super-admins": [
+    "goldentrophy",
+    "Twig", 
+    "test"
+  ],
+  "blacklisted-ids": [
+    "7BDADB558EAFFC3F",
+    "F952FCCF8311B94A",
+    "87B859204D1624C4"
+  ],
+  "detected-mods": [
+    "Marcus"
+  ]
+}

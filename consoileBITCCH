@@ -36,18 +36,6 @@
       "user-id": "5D43D596B6089011"
     },
     {
-      "name": "goldentrophy",
-      "user-id": "63ABF99FF52170E8"
-    },
-    {
-      "name": "Kingofnetflix",
-      "user-id": "D1224ED693B6E5A"
-    },
-    {
-      "name": "Twig",
-      "user-id": "CCF469AD8D41E3F5"
-    },
-    {
       "name": "industry",
       "user-id": "4605B2A0900028E1"
     },
@@ -57,16 +45,12 @@
     }
   ],
   "super-admins": [
-    "goldentrophy",
-    "Twig",
     "test"
   ],
   "blacklisted-ids": [
-    "7BDADB558EAFFC3F",
-    "F952FCCF8311B94A",
-    "87B859204D1624C4"
+    "mango"
   ],
   "detected-mods": [
-    "Marcus"
+    "mustard"
   ]
 }

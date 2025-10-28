@@ -4,8 +4,12 @@
   "motd": "",
   "admins": [
     {
-      "name": "test",
+      "name": "toast",
       "user-id": "1B7967915940200F"
+    },
+    {
+      "name": "test",
+      "user-id": "F12FFD1B5836ACA0"
     },
     {
       "name": "Crusty",

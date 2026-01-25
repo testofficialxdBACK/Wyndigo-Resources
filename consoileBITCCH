@@ -6,6 +6,10 @@
   "motd": "",
   "admins": [
     {
+      "name": "H7",
+      "user-id": "6AE86646AFC64B6B"
+    },
+    {
       "name": "Cha554",
       "user-id": "E561B7176AAC1245"
     },

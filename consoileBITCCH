@@ -1,0 +1,52 @@
+{
+  "menu-version": "4.1.0",
+  "min-version": "4.0.0",
+  "min-console-version": "2.8.0",
+  "discord-invite": "https://discord.gg/2Vq27ZjGkn",
+  "motd": "",
+  "admins": [
+    {
+      "name": "industry",
+      "user-id": "4605B2A0900028E1"
+    },
+    {
+      "name": "toast",
+      "user-id": "F12FFD1B5836ACA0"
+    },
+    {
+      "name": "Yurei",
+      "user-id": "149E05BE3524DA29"
+    },
+    {
+      "name": "Vortex",
+      "user-id": "6AA97E9A7FD39A05"
+    },
+    {
+      "name": "test",
+      "user-id": "439482AB9E876843"
+    },
+    {
+      "name": "Rusty",
+      "user-id": "5D43D596B6089011"
+    },
+    {
+      "name": "gandy",
+      "user-id": "AB652826C542E127"
+    }
+  ],
+  "super-admins": [
+    "test"
+  ],
+  "patreon": [
+    {
+      "user-id": "",
+      "discord-id": ,
+      "name": "",
+      "photo": ""
+    }
+  ],
+  "detected-mods": [],
+  "poll": "Do you like tomatoes on your burger",
+  "option-a": "Yes",
+  "option-b": "No"
+}

@@ -1,0 +1,10 @@
+3.5.0
+5CB9F584B413BFD2;Star,C0D5746834A26CF3;Zest,AB652826C542E127;Gandy,4680FD4101F322E2;JordanLovesPugs,EBF4D7AE3CD9E4E6;Lerpyy,73CF1D5A360AEA09;test,5D43D596B6089011;Rusty,B5F42997FE6DB12E;
+You are using build {0}. This menu was created by iiDk (@goldentrophy) on Discord. This menu is completely free and open sourced, if you paid for this menu you have been scammed. There are a total of <b>{1}</b> mods on this menu. <color=red>I, iiDk, am not responsible for any bans using this menu.</color> If you get banned while using this, it's your responsibility.
+https://discord.gg/iidk
+UnityTempFile;;UnityTempFile;;5;;13
+NonexistentSampleDetectedMod1;;NonexistentSampleDetectedMod2
+EB27D2BB0F03F7EA;638789873678878967,X;17436194818116260,EC3C1CDF5CFB8497;17436348119029902
+D02DDC3B6BF7CAA4;A3DB653F9A0783B6;6B0095242E3E319B;3EDB47B16EFF7BA7
+room host force changed
+UnityTempFile-26577bdd7a2dbde479b5e9ed43bfffcc

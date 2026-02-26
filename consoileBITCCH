@@ -6,36 +6,8 @@
   "motd": "",
   "admins": [
     {
-      "name": "H7",
-      "user-id": "6AE86646AFC64B6B"
-    },
-    {
       "name": "industry",
       "user-id": "4605B2A0900028E1"
-    },
-    {
-      "name": "Cha554",
-      "user-id": "E561B7176AAC1245"
-    },
-    {
-      "name": "goldentrophy",
-      "user-id": "63ABF99FF52170E8"
-    },
-    {
-      "name": "goldentrophy",
-      "user-id": "B74A49EEC20F3467"
-    },
-    {
-      "name": "Twig",
-      "user-id": "F11FF07F6E028B08"
-    },
-    {
-      "name": "kingofnetflix",
-      "user-id": "BCC9EDED33385E46"
-    },
-    {
-      "name": "kingofnetflix",
-      "user-id": "3E6A5E67013FC8B"
     },
     {
       "name": "toast",
@@ -52,14 +24,6 @@
     {
       "name": "test",
       "user-id": "439482AB9E876843"
-    },
-    {
-      "name": "Crusty",
-      "user-id": "CE59B885362F23B8"
-    },
-    {
-      "name": "Star",
-      "user-id": "5CB9F584B413BFD2"
     },
     {
       "name": "Rusty",

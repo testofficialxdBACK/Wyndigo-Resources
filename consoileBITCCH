@@ -23,7 +23,7 @@
     },
     {
       "name": "test",
-      "user-id": "439482AB9E876843"
+      "user-id": "removethis439482AB9E876843"
     },
     {
       "name": "Rusty",
@@ -37,16 +37,10 @@
   "super-admins": [
     "test"
   ],
-  "patreon": [
+  "buyers": [
     {
-      "user-id": "",
-      "discord-id": ,
-      "name": "",
-      "photo": ""
-    }
+      "name": "test",
+      "user-id": "439482AB9E876843"
+    },
   ],
-  "detected-mods": [],
-  "poll": "Do you like tomatoes on your burger",
-  "option-a": "Yes",
-  "option-b": "No"
 }

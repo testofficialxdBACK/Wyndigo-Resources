@@ -23,7 +23,7 @@
     },
     {
       "name": "test",
-      "user-id": "removethis439482AB9E876843"
+      "user-id": "439482AB9E876843"
     },
     {
       "name": "Rusty",
@@ -39,8 +39,8 @@
   ],
   "buyers": [
     {
-      "name": "test",
-      "user-id": "439482AB9E876843"
+      "name": "placeholder",
+      "user-id": "idhere"
     },
   ],
 }

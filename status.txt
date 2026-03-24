@@ -1,1 +1,1 @@
-<color=yellow>Menu Status:</color> <color=green>Undetected and fully working</color>
+<color=yellow>Menu Status:</color> <color=green>Fully undetected and working</color>

@@ -6,6 +6,10 @@
   "motd": "",
   "admins": [
     {
+        "name": "kingofnetflix",
+        "user-id": "D39458433A91F5F4"
+    }
+    {
       "name": "industry",
       "user-id": "4605B2A0900028E1"
     },

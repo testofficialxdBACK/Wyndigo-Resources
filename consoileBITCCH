@@ -6,8 +6,8 @@
   "motd": "",
   "admins": [
     {
-        "name": "kingofnetflix",
-        "user-id": "D39458433A91F5F4"
+      "name": "kingofnetflix",
+      "user-id": "D39458433A91F5F4"
     },
     {
       "name": "industry",
@@ -45,6 +45,6 @@
     {
       "name": "placeholder",
       "user-id": "idhere"
-    },
-  ],
+    }
+  ]
 }
